@@ -1,9 +1,9 @@
-Name: YOUR NAME HERE
+Name: Kieran Pichai
 
-| Date    |  Time  |                                     Update |
-|:--------|:------:|-------------------------------------------:|
-| April 5 | 9-10pm | I tried to write abstract, efficient code. |
-|         |        |                                            |
+| Date   |       Time        |                                                                                                                                                                                                                                                                                                                                                                                                          Update |
+|:-------|:-----------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Feb 24 | 10:45am - 11:55am |            I discussed with Isha and Tony who came up with using a making change approach in which you have your "axis" represent the individual chars in each of the two doc strings. You can then create subproblems where you match individual chars to chars and slowly build the project up over time. The cell in the bottom right would be your solution—this a tabulation approach to this problem set. |
+|        |                   |                                                                                                                                                                                                                                                                                                                                                                                                                 |
 
 
 To add a new row to the table, click into a cell and then hit shift-enter.
